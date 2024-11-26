@@ -2,3 +2,4 @@
 
 ## Author
 Volker Schaefer
+Max Mustermann
